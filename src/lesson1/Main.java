@@ -45,7 +45,7 @@ public class Main {
         return arrayExercise1;
     }
 
-    ///2. Написать метод, который преобразует массив в ArrayList;
+    ////2. Написать метод, который преобразует массив в ArrayList;
     private static ArrayList exercise2(Object[] arrayExercise1) {
         return new ArrayList<>(Arrays.asList(arrayExercise1));
     }
