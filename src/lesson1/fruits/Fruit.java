@@ -8,7 +8,7 @@ public class Fruit {
         return weight;
     }
 
-    public void setWeight(float weight) {
+    void setWeight(float weight) {
         this.weight = weight;
     }
 
