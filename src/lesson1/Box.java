@@ -11,11 +11,6 @@ class Box<T extends Fruit> {
     ////g. Не забываем про метод добавления фрукта в коробку.
     void addFruit(T newFruit) {
         inputBox.add(newFruit);
-//        if (inputBox.size() > 0 && inputBox.get(0).getClass() == newFruit.getClass()) {
-//            inputBox.add((T) newFruit);
-//        } else if (inputBox.size() == 0) {
-//            inputBox.add((T) newFruit)
-//        }
     }
 
     //   d. Сделать метод getWeight() который высчитывает вес коробки,
