@@ -41,7 +41,6 @@ public class Main {
         System.out.println("Вес коробки 1 с апельсинами: " + boxOrange1.getWeight());
         System.out.println("Вес коробки 2 с яблоками: " + boxApple2.getWeight());
         System.out.println("Вес коробки 2 с апельсинами: " + boxOrange2.getWeight());
-
     }
 
     // 1. Написать метод, который меняет два элемента массива местами.(массив может быть любого ссылочного типа)

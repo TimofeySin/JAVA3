@@ -31,7 +31,7 @@ public class Main {
     }
 
 
-    private static void exampl3() {
+    private static void example3() {
         float f = 1.25f;
         double d = 1.25;
         BigDecimal bd = BigDecimal.valueOf(1.1);
